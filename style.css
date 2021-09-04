@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to right, rgb(11, 129, 66) , rgb(78, 146, 201));
+}
+.container{
+   text-align: center;
+   margin-top: 2rem;
+   color: rgb(0, 0, 0);
+}
+.heading{
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+table{
+    margin: auto;
+}
+input{
+    min-height: 2.6rem;
+    border: 2px solid black;
+    border-radius: 12%;
+    font-size: larger;
+}
+button{
+    font-size: 2rem;
+    min-width: 3.7rem;
+    min-height: 3.7rem;
+    border-radius: 50%;
+    background-color: black;
+    color: blanchedalmond;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
